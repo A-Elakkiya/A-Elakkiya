@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 **About Me**
-I'm a Java Full Stack enthusiast with comprehensive training, bringing a solid foundation in HTML, CSS, and JavaScript for front-end development. My proficiency extends to utilizing Bootstrap to create responsive and visually appealing user interfaces. Passionate about solving complex problems and continuously enhancing my skills, I have completed Java Full Stack development training, gaining expertise in back-end technologies. Eager to contribute my skills and knowledge in a dynamic team environment.
+I am an Enthusiastic Java Full Stack Developer with proficiency in a versatile skill set including SQL, Java, HTML, CSS, JavaScript, and ReactJS. Actively enrolled in a Java Full Stack Development course at Jspiders, Bengaluru, to advance my web development skills. Passionate about creating dynamic and user-friendly interfaces in web development. Actively seeking opportunities to collaborate, connect with professionals, and contribute to the ever-evolving landscape of the tech industry.
 
 
