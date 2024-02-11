@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 **About Me**
+
 I am an Enthusiastic Java Full Stack Developer with proficiency in a versatile skill set including SQL, Java, HTML, CSS, JavaScript, and ReactJS. Actively enrolled in a Java Full Stack Development course at Jspiders, Bengaluru, to advance my web development skills. Passionate about creating dynamic and user-friendly interfaces in web development. Actively seeking opportunities to collaborate, connect with professionals, and contribute to the ever-evolving landscape of the tech industry.
 
 
