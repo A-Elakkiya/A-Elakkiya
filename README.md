@@ -16,12 +16,13 @@ I am an Enthusiastic Java Full Stack Developer with proficiency in a versatile s
 
 **Technical Skills**
 
-**Web Technologies:** HTML, CSS, JavaScript, React.js
+<ol>
+  <li>**Web Technologies:** HTML, CSS, JavaScript, React.js</li>
+  <li>**Database Technologies:** Oracle Database, SQL</li>
+  <li>**Programming Language:** Java</li>
+  <li></li>**IDE’s:** Eclipse, Visual Studio Code, SQL Plus</li>
+</ol>
 
-**Database Technologies:** Oracle Database, SQL
 
-**Programming Language:** Java
-
-**IDE’s:** Eclipse, Visual Studio Code, SQL Plus
 
 
