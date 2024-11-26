@@ -12,15 +12,17 @@ You can click the Preview link to take a look at your changes.
 
 **About Me**
 
-I am an Enthusiastic Java Full Stack Developer with proficiency in a versatile skill set including SQL, Java, HTML, CSS, JavaScript and ReactJS. Completed a Java Full Stack Development course at Jspiders, Bengaluru, to advance my web development skills. Passionate about creating dynamic and user-friendly interfaces in web development. Actively seeking opportunities to collaborate, connect with professionals, and contribute to the ever-evolving landscape of the tech industry.
+I am an Enthusiastic Java Full Stack Developer with proficiency in a versatile skill set including **SQL, Java, HTML, CSS, JavaScript, ReactJS**, and **Figma** for UI/UX design. Completed a **Java Full Stack Development course** at Jspiders, Bengaluru, to advance my technical skills. I also have 10 months of ongoing internship experience, which has provided me with practical knowledge and hands-on exposure to various aspects of software development and design.
+Passionate about creating efficient, user-friendly solutions and visually appealing interfaces, I am eager to contribute to projects that involve end-to-end development, problem-solving, and design collaboration. Actively seeking opportunities to collaborate, connect with professionals, and make a meaningful impact in the ever-evolving tech industry.
 
 **Technical Skills**
 
 <ul>
-  <li><b>Web Technologies:</b> HTML, CSS, JavaScript, React.js</li>
+  <li><b>Web Technologies:</b> HTML, CSS, React.js</li>
   <li><b>Database Technologies:</b> Oracle Database, SQL</li>
-  <li><b>Programming Language:</b> Java</li>
+  <li><b>Programming Language:</b> Java, JavaScript</li>
   <li><b>IDE’s:</b> Eclipse, Visual Studio Code, SQL Plus</li>
+  <li><b>UI/UX Design Tools:</b> Figma</li>
 </ul>
 
 
