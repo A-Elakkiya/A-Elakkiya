@@ -20,9 +20,9 @@ Passionate about creating efficient, user-friendly solutions and visually appeal
 <ul>
   <li><b>Web Technologies:</b> HTML, CSS, React.js</li>
   <li><b>Database Technologies:</b> Oracle Database, SQL</li>
-  <li><b>Programming Language:</b> Java, JavaScript</li>
+  <li><b>Programming Languages:</b> Java, JavaScript</li>
   <li><b>IDE’s:</b> Eclipse, Visual Studio Code, SQL Plus</li>
-  <li><b>UI/UX Design Tools:</b> Figma</li>
+  <li><b>UI/UX Design Tool:</b> Figma</li>
 </ul>
 
 
